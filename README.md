@@ -1,4 +1,4 @@
-- 👋 Wangsd823, web development
+- 👋 web development
 - 🌱 Typescript + Axios
 - 📫 wangsd823@163.com
 
