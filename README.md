@@ -1,5 +1,5 @@
 - 👋 web development
-- 🌱 Typescript + Axios
+- 🌱 Le jour de la pratique.
 - 📫 wangsd823@163.com
 
 [![made-with-javascript](https://img.shields.io/badge/Wangsd823-JavaScript-1f425f.svg)](https://www.javascript.com)
