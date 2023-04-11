@@ -1,2 +1,2 @@
-- 👋 web development
+- 👋 Java & Python & web development
 - 🌱 Le jour de la pratique.
