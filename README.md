@@ -1,2 +1,2 @@
 - 👋 Java & Python & web development
-- 🌱 Le jour de la pratique.
+- 🌱 It's only when you stop caring that this has a chance to start getting better
