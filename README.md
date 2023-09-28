@@ -1,2 +1,1 @@
-- 👋 Java & Python & web development
 - 🌱 It's only when you stop caring that this has a chance to start getting better
